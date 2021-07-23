@@ -1,5 +1,5 @@
 [<img align="left" width="22px" src="https://th.bing.com/th/id/R.77cd1cba6ee8c0853c39e135bf0e0a43?rik=n3Pk%2f3%2f2Zf42mw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_534267.png&ehk=g%2b31x%2b4h91LtLoU5Wc2a641UChHRlrZMupg5u7qfLc0%3d&risl=&pid=ImgRaw" />][pr]
-
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
