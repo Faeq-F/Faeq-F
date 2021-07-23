@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+### Hello, I'm Faeq 🖖
 
-You can use the [editor on GitHub](https://github.com/Faeq-F/Faeq-F/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## I'm a student, and an aspiring software developer!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Languages and Tools:
 
-### Markdown
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="26px" src="https://th.bing.com/th/id/OIP.N4UzEAB1YnVpwxSDF_2pKwAAAA?pid=ImgDet&rs=1" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br />
+<br />
 
-```markdown
-Syntax highlighted code block
+![Faeq StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13165763) ![Faeq's github stats](https://github-readme-stats.vercel.app/api?username=Faeq-F)
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Connect with me:
+[<img align="left" width="22px" src="https://th.bing.com/th/id/R.77cd1cba6ee8c0853c39e135bf0e0a43?rik=n3Pk%2f3%2f2Zf42mw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_534267.png&ehk=g%2b31x%2b4h91LtLoU5Wc2a641UChHRlrZMupg5u7qfLc0%3d&risl=&pid=ImgRaw" />][pr]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<br />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Faeq-F/Faeq-F/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Spotify Playing 🎧
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=faeqfaisal&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=faeqfaisal&redirect=true)
+---
+
+[twitter]: https://twitter.com/Mx_Faeq
+[instagram]: https://instagram.com/faeq._
+[linkedin]: www.linkedin.com/in/faeq
+[pr]: https://en.pronouns.page/@faeq
