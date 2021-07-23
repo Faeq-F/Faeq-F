@@ -21,7 +21,24 @@
 <br />
 <br />
 
-![Faeq StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13165763) ![Faeq's github stats](https://github-readme-stats.vercel.app/api?username=Faeq-F)
+<table>
+<tr>
+<th> StackOverflow </th>
+<th> GitHub </th>
+</tr>
+<tr>
+<td>
+
+![Faeq StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13165763)
+
+</td>
+<td>
+
+![Faeq's github stats](https://github-readme-stats.vercel.app/api?username=Faeq-F)
+
+</td>
+</tr>
+</table>
 
 ---
 
