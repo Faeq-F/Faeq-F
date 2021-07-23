@@ -29,10 +29,11 @@
 
 
 ### Connect with me:
+[<img align="left" width="22px" src="https://th.bing.com/th/id/R.77cd1cba6ee8c0853c39e135bf0e0a43?rik=n3Pk%2f3%2f2Zf42mw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_534267.png&ehk=g%2b31x%2b4h91LtLoU5Wc2a641UChHRlrZMupg5u7qfLc0%3d&risl=&pid=ImgRaw" />][pr]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -45,5 +46,5 @@
 [twitter]: https://twitter.com/Mx_Faeq
 [instagram]: https://instagram.com/faeq._
 [linkedin]: www.linkedin.com/in/faeq
-
+[pr]: https://en.pronouns.page/@faeq
 
