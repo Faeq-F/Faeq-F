@@ -1,6 +1,3 @@
-### Hello, I'm Faeq 🖖
-
-## I'm a student, and an aspiring software developer!!
 
 ### Languages and Tools:
 
