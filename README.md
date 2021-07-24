@@ -13,7 +13,7 @@
 ### Current Projects:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faeq-F)](https://github.com/Faeq-F/github-readme-stats) ![Faeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faeq-F&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Quokka)](https://github.com/Faeq-F/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Portable-Application-Launcher)](https://github.com/Faeq-F/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Gideon)](https://github.com/Faeq-F/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=MinimalBrowser)](https://github.com/Faeq-F/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Quokka)](https://github.com/Faeq-F/Quokka) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Portable-Application-Launcher)](https://github.com/Faeq-F/Portable-Application-Launcher) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Gideon)](https://github.com/Faeq-F/Gideon) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=MinimalBrowser)](https://github.com/Faeq-F/MinimalBrowser)
 
 
 <br />
