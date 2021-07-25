@@ -12,8 +12,6 @@
   box-sizing: border-box;
   overflow-y: scroll;
   overflow-x: hidden;
-  margin: 3rem auto;
-  display: block;
 }
 
 body {
@@ -26,13 +24,9 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
   margin: 3rem auto;
-  display: block;
 }
 img {
   max-width: 100%;
-  text-align: "center";
-  margin: 3rem auto;
-  display: block;
 }
 .page-header {
   color: $header-heading-color;
