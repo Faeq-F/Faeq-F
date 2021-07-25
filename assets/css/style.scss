@@ -2,9 +2,15 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+
 * {
   box-sizing: border-box;
-  overflow-y: hidden;
+  overflow-y: scroll;
   overflow-x: hidden;
 }
 
@@ -15,7 +21,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
-  overflow-y: hidden;
+  overflow-y: scroll;
   overflow-x: hidden;
 }
 img {
@@ -29,19 +35,19 @@ img {
 
   @include large {
     padding: 5rem 6rem;
-    margin: 0 3rem 0 3rem;
+    margin: 3rem 21rem 0 21rem;
     border-radius: 15px;
   }
 
   @include medium {
     padding: 3rem 4rem;
-    margin: 0 3rem 0 3rem;
+    margin: 3rem 21rem 0 21rem;
     border-radius: 15px;
   }
 
   @include small {
     padding: 2rem 1rem;
-    margin: 0 3rem 0 3rem;
+    margin: 3rem 21rem 0 21rem;
     border-radius: 15px;
   }
 }
