@@ -35,29 +35,23 @@ img {
   background-image: linear-gradient(120deg, #66ffcc, #cc33ff);
 
   @include large {
-    padding: 5rem 6rem;
-    margin: 3rem 21rem 0 21rem;
     max-width: 64rem;
-    padding: 2rem 6rem;
-    margin: 0 auto;
+    padding: 3rem 6rem 0 6rem;
+    margin: 3rem auto;
     border-radius: 15px;
   }
 
   @include medium {
-    padding: 3rem 4rem;
-    margin: 3rem 21rem 0 21rem;
     border-radius: 15px;
-    padding: 2rem 4rem;
-    margin: 0 auto;
+    padding: 3rem 4rem 0 4rem;
+    margin: 3rem auto;
     max-width: 64rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
-    margin: 3rem 21rem 0 21rem;
     border-radius: 15px;
-    padding: 2rem 1rem;
-    margin: 0 auto;
+    padding: 3rem 2rem 0 2rem;
+    margin: 3rem auto;
     max-width: 64rem;
   }
 }
