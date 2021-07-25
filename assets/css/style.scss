@@ -2,7 +2,8 @@
 ---
 
 @import 'jekyll-theme-cayman';
-
+overflow-y: hidden;
+overflow-x: hidden;
 .page-header {
   color: $header-heading-color;
   text-align: center;
