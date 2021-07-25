@@ -37,21 +37,21 @@ img {
   @include large {
     max-width: 64rem;
     padding: 3rem 6rem 0 6rem;
-    margin: 3rem auto;
+    margin: 3rem 3rem 0 3rem;
     border-radius: 15px;
   }
 
   @include medium {
     border-radius: 15px;
     padding: 3rem 4rem 0 4rem;
-    margin: 3rem auto;
+    margin: 3rem 3rem 0 3rem;
     max-width: 64rem;
   }
 
   @include small {
     border-radius: 15px;
     padding: 3rem 2rem 0 2rem;
-    margin: 3rem auto;
+    margin: 3rem 3rem 0 3rem;
     max-width: 64rem;
   }
 }
