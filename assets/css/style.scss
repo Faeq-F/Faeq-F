@@ -37,6 +37,9 @@ img {
   @include large {
     padding: 5rem 6rem;
     margin: 3rem 21rem 0 21rem;
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
     border-radius: 15px;
   }
 
@@ -44,11 +47,17 @@ img {
     padding: 3rem 4rem;
     margin: 3rem 21rem 0 21rem;
     border-radius: 15px;
+    padding: 2rem 4rem;
+    margin: 0 auto;
+    max-width: 64rem;
   }
 
   @include small {
     padding: 2rem 1rem;
     margin: 3rem 21rem 0 21rem;
     border-radius: 15px;
+    padding: 2rem 1rem;
+    margin: 0 auto;
+    max-width: 64rem;
   }
 }
