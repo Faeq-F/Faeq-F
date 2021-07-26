@@ -1,24 +1,153 @@
-# Hello, I'm Faeq 🖖[<img align="left" width="32px" src="https://th.bing.com/th/id/R.77cd1cba6ee8c0853c39e135bf0e0a43?rik=n3Pk%2f3%2f2Zf42mw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_534267.png&ehk=g%2b31x%2b4h91LtLoU5Wc2a641UChHRlrZMupg5u7qfLc0%3d&risl=&pid=ImgRaw" />][pr]
+<h1 align="center">Hello, I'm Faeq 🖖</h1>
 
-## I'm a student, and an aspiring software developer!
+<h2 align="center">I'm a student, and a self-taught software developer!</h2>
 
+<h3 align="center">Current Projects</h3>
 
-### Current Projects:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faeq-F)](https://github.com/Faeq-F/) [![Faeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faeq-F&show_icons=true)](https://github.com/Faeq-F/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Quokka)](https://github.com/Faeq-F/Quokka) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Portable-Application-Launcher)](https://github.com/Faeq-F/Portable-Application-Launcher) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=Gideon)](https://github.com/Faeq-F/Gideon) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&repo=MinimalBrowser)](https://github.com/Faeq-F/MinimalBrowser)
+<p align="center" margin = "0 auto">
+  <a href="https://github.com/Faeq-F/Quokka">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&amp;repo=Quokka" alt="Readme Card" max-width="250px">
+  </a>
+  <a href="https://github.com/Faeq-F/Portable-Application-Launcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&amp;repo=Portable-Application-Launcher" alt="Readme Card" max-width="250px">
+  </a>
+  <a href="https://github.com/Faeq-F/Gideon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&amp;repo=Gideon" alt="Readme Card" max-width="250px">
+  </a>
+  <a href="https://github.com/Faeq-F/MinimalBrowser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&amp;repo=MinimalBrowser" alt="Readme Card" max-width="250px">
+  </a>
+</p>
+
+<br>
 
 ---
-### Languages and Tools:
-<img align="left" alt="Office" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_(2019%E2%80%93present).svg/1200px-Microsoft_Office_logo_(2019%E2%80%93present).svg.png" />&nbsp;&nbsp;<img align="left" alt="Adobe suite" width="26px" src="https://www.streamscheme.com/wp-content/uploads/2021/01/adobe-logo.png" />&nbsp;&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;&nbsp;<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp;<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;&nbsp;<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;&nbsp;<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;&nbsp;<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />&nbsp;&nbsp;<img align="left" alt="Python" width="26px" src="https://th.bing.com/th/id/OIP.N4UzEAB1YnVpwxSDF_2pKwAAAA?pid=ImgDet&rs=1" />&nbsp;&nbsp;<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;&nbsp;<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;&nbsp;<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br>
+
+<h3 align="center">Languages and Tools</h3>
+<br>
+<a href="https://github.com/Faeq-F/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faeq-F&amp;show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs" alt="Faeq's GitHub stats" max-width="250px">
+</a>
+<a href="https://github.com/Faeq-F/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faeq-F&amp;layout=compact&langs_count=4&card_width=252&exclude_repo=ASCII-art-viewer" alt="Top Langs">
+</a>
+<br>
+<a href="https://www.libreoffice.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=LibreOffice&amp;color=18A303&amp;logo=LibreOffice&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.office.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Microsoft Office&amp;color=D83B01&amp;logo=Microsoft Office&amp;logoColor=FFFFFF" alt="Microsoft Office">
+</a>
+<a href="https://www.office.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Microsoft PowerPoint&amp;color=DD472A&amp;logo=Microsoft PowerPoint&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.office.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Microsoft Word&amp;color=2B579A&amp;logo=Microsoft Word&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.office.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Microsoft Excel&amp;color=217346&amp;logo=Microsoft Excel&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.office.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Microsoft Onenote&amp;color=7719AA&amp;logo=Microsoft Onenote&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.office.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Microsoft Outlook&amp;color=0078D4&amp;logo=Microsoft Outlook&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.office.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Microsoft Access&amp;color=A4373A&amp;logo=Microsoft Access&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.office.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Microsoft Teams&amp;color=6264A7&amp;logo=Microsoft Teams&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.adobe.com/uk/products/photoshop.html">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Adobe Photoshop&amp;color=31A8FF&amp;logo=Adobe Photoshop&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+
+<a href="https://www.adobe.com/uk/products/illustrator.html">
+  
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Adobe Illustrator&amp;color=FF9A00&amp;logo=Adobe Illustrator&amp;logoColor=FFFFFF" alt="Node.js">
+  
+</a>
+
+<a href="https://www.adobe.com/products/premiere.html">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Adobe Premiere Pro&amp;color=9999FF&amp;logo=Adobe Premiere Pro&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.adobe.com/products/xd.html">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Adobe XD&amp;color=FF61F6&amp;logo=Adobe XD&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://acrobat.adobe.com/uk/en/acrobat/pdf-reader.html">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Adobe Acrobat Reader&amp;color=EC1C24&amp;logo=Adobe Acrobat Reader&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Visual Studio Code&amp;color=007ACC&amp;logo=Visual Studio Code&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=JavaScript&amp;color=F1AA00&amp;logo=javascript&amp;logoColor=FFFFFF" alt="JavaScript">
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=TypeScript&amp;color=3178C6&amp;logo=TypeScript&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.json.org/json-en.html">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=JSON&amp;color=000000&amp;logo=JSON&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://nodejs.org/en/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Node.js&amp;color=47d147&amp;logo=node.js&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://reactjs.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=React&amp;color=61BAFB&amp;logo=React&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.electronjs.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Electron&amp;color=47848F&amp;logo=Electron&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://html.spec.whatwg.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=HTML5&amp;color=E34F26&amp;logo=HTML5&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.w3.org/Style/CSS/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=CSS3&amp;color=1572B6&amp;logo=CSS3&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://sass-lang.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Sass&amp;color=CC6699&amp;logo=Sass&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.python.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Python&amp;color=3C78A9&amp;logo=python&amp;logoColor=FFFFFF" alt="Python">
+</a>
+<a href="https://git-scm.com/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Git&amp;color=F05032&amp;logo=Git&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://github.com">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=181717&amp;logo=GitHub&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://spec.commonmark.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Markdown&amp;color=000000&amp;logo=Markdown&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Terminal&amp;color=4D4D4D&amp;logo=Windows Terminal&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://docs.microsoft.com/en-gb/powershell/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=PowerShell&amp;color=5391FE&amp;logo=PowerShell&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.blender.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=Blender&amp;color=F5792A&amp;logo=Blender&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<a href="https://www.gimp.org/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&amp;message=GIMP&amp;color=5C5543&amp;logo=GIMP&amp;logoColor=FFFFFF" alt="Node.js">
+</a>
+<br>
+
+<br>
+
 ---
-### Connect with me:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedn]
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
-<br />
-<br />
+
+<br>
+
+<h3 align="center">Connect with me</h3>
+
+<div margin="0 auto" align="center"><a href="mailto:faeqfaisal@hotmail.co.uk"><img align="center" width="22px" margin="10px auto" style="display: inline-block; max-width: 250px; margin: 0 auto;" src = "http://cdn.onlinewebfonts.com/svg/img_62174.png"></a><a href="https://linkedin.com/in/faeq"><img align="center" width="22px" margin="10px auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a><a href="https://twitter.com/Mx_Faeq"><img align="center" width="22px" margin="10px auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a href="https://t.me/Faeq905"><img align="center" width="22px" margin="10px auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a><a href="https://instagram.com/faeq._"><img align="center" width="22px" margin="10px auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a><a href="https://reddit.com/user/Faeq_"><img align="center" width="22px" margin="10px auto" src="https://webstockreview.net/images/secret-clipart-speak-softly-3.png"></a></div>
+
+<br>
+
 
 [twitter]: https://twitter.com/Mx_Faeq
 [instagram]: https://instagram.com/faeq._
