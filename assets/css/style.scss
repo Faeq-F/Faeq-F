@@ -3,7 +3,7 @@
     width: 0px;
     background: transparent; /* make scrollbar transparent */
 }
-
+/*
 * {
   box-sizing: border-box;
   overflow-y: scroll;
@@ -55,10 +55,11 @@ img {
     max-width: 64rem;
   }
 }
-body
+*/
+body{
 	background: #3A3A42
-	box-sizing: content-box
-.menu
+		box-sizing: content-box}
+.menu{
 	position: fixed
 	height: 100vh
 	background: #F9D401
@@ -71,42 +72,42 @@ body
 		transform: perspective(100vw) rotateY(10deg) translateX(35vw) scaleY(1.2)
 	&:hover nav
 		left: 20%
-	
+}
 		
-.container
+.container{
 	width: 90%
 	margin-left: 10vw
 	background: #FDFDFD
 	transition: 1s
 	transform-origin: left center
-	color: #D2D2D0
+		color: #D2D2D0}
 
-	.content
+	.content{
 		padding: 100px 20%
+}
 		
 		
-		
-nav
+nav{
 	position: absolute
 	margin-top: 50%
 	left: -1000px
 	transition: .5s
-	ul
+	ul{
 		color: white
 		text-transform: uppercase
-		list-style-type: none
-	li
+			list-style-type: none}
+	li{
 		line-height: 2em
-		letter-spacing: .3em
-	a
+			letter-spacing: .3em}
+	a{
 		font-size: 30px
 		text-decoration: none
 		color: white
 		font-weight: 600
 		&:hover
 			color: #eee
-		
-p
-	line-height: 1.5em
-h1
-	color: #bbb
+			}	}
+p{
+	line-height: 1.5em}
+h1{
+	color: #bbb}
