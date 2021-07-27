@@ -17,7 +17,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
+  color: #FFFFFF;
   overflow-y: scroll;
   overflow-x: hidden;
   margin: 3rem auto;
@@ -28,9 +28,9 @@ img {
   margin: 0 auto;
 }
 .page-header {
-  color: $header-heading-color;
+  color: #FFFFFF;
   text-align: center;
-  background-color: $header-bg-color;
+  background-color: #FFFFFF;
   background-image: linear-gradient(120deg, #66ffcc, #cc33ff);
   margin: 3rem auto;
   display: block;
