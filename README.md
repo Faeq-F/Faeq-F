@@ -138,15 +138,6 @@
 
 <br>
 
----
-
-<br>
-
-<h3 align="center">Connect with me</h3>
-
-<div margin="0 auto" align="center"><a href="mailto:faeqfaisal@hotmail.co.uk"><img align="center" width="22px" margin="10px auto" style="display: inline-block; max-width: 250px; margin: 0 auto;" src = "http://cdn.onlinewebfonts.com/svg/img_62174.png"></a><a href="https://linkedin.com/in/faeq"><img align="center" width="22px" margin="10px auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a><a href="https://twitter.com/Mx_Faeq"><img align="center" width="22px" margin="10px auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a href="https://t.me/Faeq905"><img align="center" width="22px" margin="10px auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a><a href="https://instagram.com/faeq._"><img align="center" width="22px" margin="10px auto" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a><a href="https://reddit.com/user/Faeq_"><img align="center" width="22px" margin="10px auto" src="https://webstockreview.net/images/secret-clipart-speak-softly-3.png"></a></div>
-
-<br>
 
 
 [twitter]: https://twitter.com/Mx_Faeq
