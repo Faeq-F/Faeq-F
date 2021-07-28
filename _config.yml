@@ -1,5 +1,5 @@
 # Site
-title:              "Faeq"
+title:              "Hello, I'm Faeq 🖖"
 remote_theme: TaylanTatli/Moon
 bio:                'A self-taught software developer'
 description:        "A self-taught software developer"
@@ -36,10 +36,10 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              faeqfaisal@hotmail.co.uk
 twitter:            Mx_Faeq
 #facebook:           username
-github-url:         https://github.com/faeq-F/
+github-url:         faeq-F
 stackoverflow:      13165763/faeq
 #linkedin:          username
 #xing:              username
