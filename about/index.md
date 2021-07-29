@@ -18,7 +18,7 @@ I am currently a student focusing on Computer Science.
 
 {% capture images %}
     https://user-images.githubusercontent.com/61658458/110971703-1b641480-8353-11eb-9860-ca551d4d5b1c.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://user-images.githubusercontent.com/61658458/116815079-c58e3a80-ab53-11eb-876a-eb8796c0708b.PNG
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of some of my programs" cols=2 %}
 
