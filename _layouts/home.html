@@ -8,6 +8,16 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+	
+	<style>
+		html {
+			overflow:   scroll;
+		}
+		::-webkit-scrollbar {
+				width: 0px;
+				background: transparent; /* make scrollbar transparent */
+		}
+	</style>
 </head>
 <body>
     {% include nav.html %}
