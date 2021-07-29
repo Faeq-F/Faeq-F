@@ -4,7 +4,7 @@ remote_theme: TaylanTatli/Moon
 bio:                'A self-taught software developer'
 description:        "A self-taught software developer"
 logo:               'https://raw.githubusercontent.com/Faeq-F/Faeq-F/gh-pages/_layouts/circle-cropped-profile-image.png'
-background:         'https://wallpaperaccess.com/full/2175398.jpg'
+background:         'https://raw.githubusercontent.com/Faeq-F/Faeq-F/gh-pages/bg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_GB
 url:                https://faeq-f.github.io/Faeq-F/
