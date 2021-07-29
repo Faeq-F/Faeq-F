@@ -23,6 +23,8 @@ I am currently a student focusing on Computer Science.
 
 I love to code
 
+<center>Fun Fact</center>
+<center>The background of this website is some of my code for <a href="https://github.com/Faeq-F/Quokka">Quokka</a></center>
 ## Contact me
 
 - Form here:
