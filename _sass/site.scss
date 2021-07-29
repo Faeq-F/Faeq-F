@@ -8,8 +8,13 @@
 }
 
 
+::-webkit-scrollbar {
+		width: 0px;
+		background: transparent; /* make scrollbar transparent */
+}
 html {
 	@extend %extend1;
+	overflow: scroll;
 }
 body {
 	@extend %extend1;
