@@ -11,7 +11,8 @@ comments: false
 ## Who I am
 I am currently a student focusing on Computer Science. 
 
-* Me
+* I'll say it bluntly
+  * Some call it stubbornness - I call it passion. You can count on me to always tell you what I mean; only to create the best results for and with you.
 
 ## My Passion
 
