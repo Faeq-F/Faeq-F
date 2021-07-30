@@ -23,15 +23,15 @@ body {
 	background-color: $bodycolor;
 	background-position: center center;
 	background-attachment: fixed;
-	@media #{$small} {
+	//@media #{$small} {
 	  //background-image: none !important;
 		//background: $white;
-		font-family: $font1;
-		color: $color_tuatara;
-		background-color: $bodycolor;
-		background-position: center center;
-		background-attachment: fixed;
-	}
+		//font-family: $font1;
+		//color: $color_tuatara;
+		//background-color: $bodycolor;
+		//background-position: center center;
+		//background-attachment: fixed;
+	//}
 }
 * {
 	box-sizing: border-box;
