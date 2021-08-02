@@ -23,6 +23,7 @@ body {
 	background-color: $bodycolor;
 	background-position: center center;
 	background-attachment: fixed;
+	border-radius: 15px;
 	//@media #{$small} {
 	  //background-image: none !important;
 		//background: $white;
@@ -87,7 +88,7 @@ body {
 	background-color: $white;
 	color: $color_shark;
 	z-index: 1;
-	border-radius: 3px;
+	border-radius: 15px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
@@ -116,7 +117,7 @@ body {
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
-	border-radius: 3px;
+	border-radius: 15px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
@@ -132,7 +133,7 @@ body {
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
-	border-radius: 3px;
+	border-radius: 15px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
@@ -203,16 +204,16 @@ header .entry-meta {
 }
 .feature {
     @include transition(.5s);
-    @media #{$small} {
-        background-image: none !important;
-    }
+    //@media #{$small} {
+        //background-image: none !important;
+    //}
     @media #{$medium} {
         color: white;
         padding: 4em;
         margin-left: -4rem;
         margin-right: -4rem;
         margin-top: -2rem;
-        border-radius: 3px 3px 0 0;
+        border-radius: 15px 15px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
@@ -223,7 +224,7 @@ header .entry-meta {
         margin-left: -4rem;
         margin-right: -4rem;
         margin-top: -2rem;
-        border-radius: 3px 3px 0 0;
+        border-radius: 15px 15px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
