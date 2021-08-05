@@ -24,7 +24,8 @@ body {
 	background-position: center center;
 	background-attachment: fixed;
 	border-radius: 15px;
-	//@media #{$small} {
+	@media #{$small} {
+		margin: 10px;
 	  //background-image: none !important;
 		//background: $white;
 		//font-family: $font1;
@@ -32,7 +33,7 @@ body {
 		//background-color: $bodycolor;
 		//background-position: center center;
 		//background-attachment: fixed;
-	//}
+	}
 }
 * {
 	box-sizing: border-box;
