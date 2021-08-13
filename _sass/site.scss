@@ -25,12 +25,12 @@ body {
 	background-attachment: fixed;
 	border-radius: 15px;
 	@media #{$small} {
-		margin: 0;
+		
 		padding: 0;
 		width: 100%;
 		height: 100%;
 		font-size: 100%;
-		margin: 80px 10px 10px 10px;
+		margin: 25% 10px 25% 10px;
 		background-color: $bodycolor;
 		background-position: center center;
 		background-attachment: fixed;
@@ -94,7 +94,7 @@ body {
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
-		width: 80%;
+		//width: 80%;
 	    
 	}
 	@media #{$medium} {
@@ -129,7 +129,8 @@ body {
 #disqus_thread {
 	width: 75%;
 	max-width: 850px;
-	margin: -3rem auto 4rem;
+	//margin: -3rem auto 4rem;
+	margin: 4rem auto 4rem auto;
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
@@ -162,10 +163,10 @@ body {
         background-color: $white;
         color: $color_tuatara;
         @include transition(.75s);
-        margin: 2px 5px;
+        margin: 5px 5px;
 		span {
 			float: left;
-			padding: 2px 6px;
+			padding: 6px 6px;
 		}
 		.count {
 			background-color: darken($white,15);
@@ -180,7 +181,7 @@ body {
 header .entry-meta {
 	display: none; // hide header meta on small screens
 	@media #{$notsmall} {
-		display: block;
+		//display: block;
 	}
 }
 .entry-title a {
@@ -218,7 +219,7 @@ header .entry-meta {
     }
     @media #{$notsmall} {
         color: white;
-        padding: 10em;
+        padding: 4em;
         margin-left: -4rem;
         margin-right: -4rem;
         margin-top: -2rem;
