@@ -25,14 +25,13 @@ body {
 	background-attachment: fixed;
 	border-radius: 15px;
 	@media #{$small} {
-		
-		padding: 0;
+		padding: 25% 20px 25% 10px;
 		width: 100%;
 		height: 100%;
 		font-size: 100%;
-		margin: 25% 20px 25% 10px;
+		margin: 0% 0px 0% 0px;
 		background-color: $bodycolor;
-		background-position: center center;
+		background-position: center 0;
 		background-attachment: fixed;
 	}
 }
@@ -181,7 +180,7 @@ body {
 header .entry-meta {
 	display: none; // hide header meta on small screens
 	@media #{$notsmall} {
-		//display: block;
+		display: block;
 	}
 }
 .entry-title a {
@@ -203,9 +202,9 @@ header .entry-meta {
 }
 .feature {
     @include transition(.5s);
-    //@media #{$small} {
-        //background-image: none !important;
-    //}
+    @media #{$small} {
+        background-image: none !important;
+    }
     @media #{$medium} {
         color: white;
         padding: 4em;
