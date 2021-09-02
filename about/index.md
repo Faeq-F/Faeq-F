@@ -11,8 +11,16 @@ comments: false
 ## Who I am
 I am currently a student focusing on Computer Science. 
 
-* I'll say it bluntly
-  * Some call it stubbornness - I call it passion. You can count on me to always tell you what I mean; only to create the best results for and with you.
+Since I was a child, I have been fascinated with technology. I find it intriguing how fast technology has changed in the past decade and how it has shaped society. I have always loved gaining new knowledge every day to help find solutions to world problems and make a positive impact on the future of humanity with the use of computing.
+
+I have taught myself multiple languages including Python, SQL and JavaScript. I love problem solving and getting that satisfaction afterwards. I am constantly working on projects of my own, which can be seen here, and I give computer science my utmost dedication; it is an ever-expanding subject in which my enjoyment will never cease to diminish.
+
+What I love most is the constant development of new ideas and solutions to problems that are able to change the world. Computer science is now at the forefront of breakthroughs in STEM subjects. I am enthusiastic to learn from people who are contributing to the field and wish to transfer my own knowledge and understanding to others.
+
+My ambition to work in computer science originates from my belief that in an ever-changing society, technology holds the key to connecting the world together and making it an increasingly safer and better place to live in.
+
+I'll say it bluntly
+Some call it stubbornness - I call it passion. You can count on me to always tell you what I mean; only to create the best results for and with you.
 
 ## My Passion
 
