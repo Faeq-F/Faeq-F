@@ -96,7 +96,7 @@
 		}
 		&.dl-back > a {
 			padding-left: 30px;
-			background: rgba(255,255,255,0.2);
+			background: rgba(0,0,0,0.2);
 		}
 		&.dl-back:after,
 		> a:not(:only-child):after {
@@ -118,7 +118,7 @@
 		}
 		> a:after {
 			right: 10px;
-			color: rgba(255,255,255,0.15);
+			color: rgba(0,0,0,0.15);
 		}
 	}
 	.dl-menu {
@@ -360,7 +360,7 @@ All this is done for any sub-level being entered.
 .dl-menuwrapper button:hover,
 .dl-menuwrapper button.dl-active,
 .dl-menuwrapper ul {
-	background: $comp-color;
+	background: complement(#FFF);
 }
 // Fix for IE
 .dl-menu li {
