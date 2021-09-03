@@ -37,14 +37,14 @@
 	button:hover,
 	button.dl-active,
 	ul {
-		background: #000;
+		background: #aaa;
 	}
 	button:after {
 		content: '';
 		position: absolute;
 		width: 68%;
 		height: 5px;
-		background: #a476f4;
+		background: #FFF;
 		top: 10px;
 		left: 16%;
 		box-shadow: 
