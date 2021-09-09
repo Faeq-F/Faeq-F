@@ -19,8 +19,6 @@ What I love most is the constant development of new ideas and solutions to probl
 
 My ambition to work in computer science originates from my belief that in an ever-changing society, technology holds the key to connecting the world together and making it an increasingly safer and better place to live in.
 
-I'll say it bluntly
-Some call it stubbornness - I call it passion. You can count on me to always tell you what I mean; only to create the best results for and with you.
 
 ## My Passion
 
@@ -29,8 +27,6 @@ Some call it stubbornness - I call it passion. You can count on me to always tel
     https://user-images.githubusercontent.com/61658458/116815079-c58e3a80-ab53-11eb-876a-eb8796c0708b.PNG
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of some of my programs" cols=2 %}
-
-I love to code
 
 <center>Fun Fact</center>
 <center>The background of this website is some of my code for <a href="https://github.com/Faeq-F/Quokka">Quokka</a></center>
