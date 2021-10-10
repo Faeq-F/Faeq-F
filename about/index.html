@@ -1,9 +1,72 @@
 ---
-layout: page
-title: About Me
-comments: false
+layout: compress
 ---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  -ms-flex: 50%; /* IE 10 */
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+</style>
     
+</head>
+<body>
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title">
+                    <h1>{{ page.title }}</h1>
+                    <a class="btn zoombtn" href="{{site.url}}" style="float: left; margin: -70px 0 0 0; -webkit-text-size-adjust: 100%; --animate-duration: 1s; --animate-delay: 1s; --animate-repeat: 1; font-family: Fira Sans,sans-serif; line-height: 1.8571; -webkit-font-smoothing: antialiased !important; text-rendering: optimizelegibility !important; text-align: center; font-weight: bold; box-sizing: border-box; transition: color .4s; display: inline-block; border: 1px solid; border-color: rgba(229,230,233,0.5) rgba(223,224,228,0.5) #d0d1d5; border-radius: 10px; text-decoration: none; background: #fff; padding: 10px 18px; font-size: .875rem; color: #282828; float: left; margin: -70px 0 0 0;">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </div>
+                <div>
+ 
 <center><h1>Hello, I am Faeq. A self-taught software developer!</h1></center>
 
 <h2>Who I am</h2>
@@ -24,7 +87,7 @@ My ambition to work in computer science originates from my belief that in an eve
 
 {% capture images %}
     https://user-images.githubusercontent.com/61658458/110971703-1b641480-8353-11eb-9860-ca551d4d5b1c.png
-    https://user-images.githubusercontent.com/61658458/116815079-c58e3a80-ab53-11eb-876a-eb8796c0708b.PNG
+    https://user-images.githubusercontent.com/61658458/116815079-c58e3a80-ab53-11eb-876a-eb8796c0708b.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of some of my programs" cols=2 %}
 
@@ -32,3 +95,48 @@ My ambition to work in computer science originates from my belief that in an eve
 <center>The background of this website is some of my code for <a href="https://github.com/Faeq-F/Quokka">Quokka</a></center>
 <h2>Contact me</h2>
 Form here:
+                    
+                    
+                    
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
+
+// Declare a loop variable
+var i;
+
+// Full-width images
+function one() {
+    for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "100%";  // IE10
+    elements[i].style.flex = "100%";
+  }
+}
+
+// Two images side by side
+function two() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "50%";  // IE10
+    elements[i].style.flex = "50%";
+  }
+}
+
+// Four images side by side
+function four() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "25%";  // IE10
+    elements[i].style.flex = "25%";
+  }
+}
+
+</script>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+    <script type="text/javascript">(new WOW).init();</script>
+</body>
+</html>
