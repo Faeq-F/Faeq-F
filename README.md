@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Faeq-F&amp;show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs" alt="Faeq's GitHub stats" max-width="250px">
 </a>
 <a href="https://github.com/Faeq-F/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faeq-F&amp;layout=compact&langs_count=4&card_width=252&exclude_repo=ASCII-art-viewer&exclude_repo=SandBox" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faeq-F&amp;layout=compact&langs_count=4&card_width=252&exclude_repo=ASCII-art-viewer,SandBox" alt="Top Langs">
 </a>
 <br>
 <a href="https://www.libreoffice.org/">
