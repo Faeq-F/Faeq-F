@@ -6,16 +6,16 @@
 
 <p align="center" margin = "0 auto">
   <a href="https://github.com/Faeq-F/Quokka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&amp;repo=Quokka" alt="Readme Card" max-width="250px">
+    <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=Quokka" alt="Readme Card" max-width="250px">
   </a>
   <a href="https://github.com/Faeq-F/Portable-Application-Launcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&amp;repo=Portable-Application-Launcher" alt="Readme Card" max-width="250px">
+    <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=Portable-Application-Launcher" alt="Readme Card" max-width="250px">
   </a>
   <a href="https://github.com/Faeq-F/Gideon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&amp;repo=Gideon" alt="Readme Card" max-width="250px">
+    <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=Gideon" alt="Readme Card" max-width="250px">
   </a>
   <a href="https://github.com/Faeq-F/MinimalBrowser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faeq-F&amp;repo=MinimalBrowser" alt="Readme Card" max-width="250px">
+    <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=MinimalBrowser" alt="Readme Card" max-width="250px">
   </a>
 </p>
 
@@ -28,10 +28,10 @@
 <h3 align="center">Languages and Tools</h3>
 <br>
 <a href="https://github.com/Faeq-F/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faeq-F&amp;show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs" alt="Faeq's GitHub stats" max-width="250px">
+  <img src="https://github-readme-stats-xi-five-41.vercel.app/api?username=Faeq-F&amp;show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs" alt="Faeq's GitHub stats" max-width="250px">
 </a>
 <a href="https://github.com/Faeq-F/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faeq-F&amp;layout=compact&langs_count=4&card_width=252&exclude_repo=ASCII-art-viewer,SandBox" alt="Top Langs">
+  <img src="https://github-readme-stats-xi-five-41.vercel.app/api/top-langs/?username=Faeq-F&amp;layout=compact&langs_count=4&card_width=252&exclude_repo=ASCII-art-viewer,SandBox" alt="Top Langs">
 </a>
 <br>
 <a href="https://www.libreoffice.org/">
@@ -143,7 +143,7 @@
 
 
 
-[twitter]: https://twitter.com/Mx_Faeq
+
 [instagram]: https://instagram.com/faeq._
 [linkedn]: https://linkedin.com/in/faeq
-[pr]: https://en.pronouns.page/@faeq
+
