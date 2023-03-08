@@ -1,11 +1,10 @@
 # Site
-title:              "Faeq - aspiring software developer"
-remote_theme:       zerostaticthemes/jekyll-serif-theme
-bio:                'A self-taught software developer'
-description:        "A self-taught software developer"
+title:              "Faeq - Software Engineer"
+bio:                'Faeq - Software Engineer'
+description:        "Faeq - Software Engineer"
 logo:               'https://raw.githubusercontent.com/Faeq-F/Faeq-F/gh-pages/_layouts/circle-cropped-profile-image.png'
 background:         'https://raw.githubusercontent.com/Faeq-F/Faeq-F/gh-pages/bg.png'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false
 locale:             en_GB
 url:                https://faeq-f.github.io/Faeq-F/
 
@@ -39,7 +38,7 @@ disqus_shortname:   taylantatli
 email:              faeqfaisal@hotmail.co.uk
 #twitter:            dont use anymore
 #facebook:           username
-github-url:         faeq-F
+github-url:         Faeq-F
 stackoverflow:      13165763/faeq
 linkedin:          faeq
 #xing:              username
