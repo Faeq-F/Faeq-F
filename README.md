@@ -141,8 +141,13 @@
 
 <br>
 
+<br>
 
+---
 
+<br>
+
+<h3 align="center">Other Projects</h3>
 
 [instagram]: https://instagram.com/faeq._
 [linkedn]: https://linkedin.com/in/faeq
