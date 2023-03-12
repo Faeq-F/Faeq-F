@@ -7,6 +7,7 @@ background:         'https://raw.githubusercontent.com/Faeq-F/Faeq-F/gh-pages/bg
 tiled_bg:           false
 locale:             en_GB
 url:                https://faeq-f.github.io/Faeq-F/
+remote_theme:       TaylanTatli/Moon
 
 # Jekyll
 permalink:          /:title/
