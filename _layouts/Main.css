@@ -1,0 +1,169 @@
+html {
+    scroll-behavior: smooth;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+
+/* This is just to transition when you change the viewport size. */
+* {
+    transition: all 0.25s ease-out;
+}
+
+
+li {
+    display: inline;
+    float: left;
+    height: 100%;
+
+}
+li a {
+    line-height: 30px;
+    height: 100%;
+    padding: 0 24px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+}
+
+
+
+.headerText{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 70px;
+    color: #2c2c2cd5;
+    font-size: larger;
+    font-weight: bold;
+}
+.right-li{
+    float: right !important;
+}
+.navbar {
+    list-style: none;
+    height: 70px;
+}
+.connectButton{
+    font-size: larger;
+}
+
+header {
+  width: calc(100% - 81px);
+  left: 0;
+  color: #000;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  
+  width: 100%;
+  
+  background-color: transparent;
+  border-radius: 30px;
+  transition: 300ms ease;
+}
+
+header.sticky {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  margin: 10px 2.5%;
+  width:95%;
+  background-color: #f2f4f8;
+}
+
+@media (max-width: 661px) {
+  .headerText{
+    line-height: 20px;
+    font-size: small;
+    /*Center font*/
+  }
+  li a {
+    line-height: 20px;
+    padding: 0 5px;
+  }
+}
+@media (min-width: 660px) {
+  .headerText{
+    line-height: 70px;
+    font-size: larger;
+  }
+  li a {
+    line-height: 30px;
+    padding: 0 24px;
+  }
+}
+
+#PageContent{
+  
+}
+
+.progress-container {
+    width: 100%;
+    height: 8px;
+    background: #ccc;
+    border-radius: 360px;
+}
+
+.progress-bar {
+    height: 8px;
+    background: #a97ef4;
+    width: 0%;
+    border-radius: 360px;
+}
+
+ul{
+    padding-inline-start: 40px;
+    padding-inline-end: 40px;
+}
+
+li{
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+}
+
+body {
+    background: #f2f4f8;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+.pageContent {
+    padding: 16px;
+    margin-top: 100vh;
+}
+
+/*--*/
+.card {
+    background: #f2f4f8;
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+    transition: 0.7s;
+    border-radius: 15px;
+    padding: 2px 16px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
