@@ -3,11 +3,11 @@ title:              "Faeq - Software Engineer"
 bio:                'Faeq - Software Engineer'
 description:        "Faeq - Software Engineer"
 logo:               'https://raw.githubusercontent.com/Faeq-F/Faeq-F/gh-pages/_layouts/circle-cropped-profile-image.png'
-background:         'https://raw.githubusercontent.com/Faeq-F/Faeq-F/gh-pages/bg.png'
-tiled_bg:           false
+#background:         'https://raw.githubusercontent.com/Faeq-F/Faeq-F/gh-pages/bg.png'
+#tiled_bg:           false
 locale:             en_GB
 url:                https://faeq-f.github.io/Faeq-F/
-remote_theme:       TaylanTatli/Moon
+#remote_theme:       TaylanTatli/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -20,12 +20,12 @@ kramdown:
   toc_levels:       1..6
   enable_coderay:   false
 mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+#sass:
+#  sass_dir:         _sass
+#  style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+#disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
