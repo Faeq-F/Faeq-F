@@ -28,7 +28,7 @@
 <h3 align="center">Languages and Tools</h3>
 <br>
 <a href="https://github.com/Faeq-F/">
-  <img src="https://github-readme-stats-xi-five-41.vercel.app/api?username=Faeq-F&amp;show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs" alt="Faeq's GitHub stats" max-width="250px">
+  <img src="https://github-readme-stats-xi-five-41.vercel.app/api?username=Faeq-F&hide=issues,contribs&show_icons=true&bg_color=00000000&hide_border=true&rank_icon=github" alt="Faeq's GitHub stats" max-width="250px">
 </a>
 <a href="https://github.com/Faeq-F/">
   <img src="https://github-readme-stats-xi-five-41.vercel.app/api/top-langs/?username=Faeq-F&amp;layout=compact&langs_count=4&card_width=252&langs_count=8&hide=html,kotlin,swift,objective-c,css" alt="Top Langs">
