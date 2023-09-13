@@ -28,10 +28,11 @@
 <h3 align="center">Languages and Tools</h3>
 <br>
 <a href="https://github.com/Faeq-F/">
-  <img src="https://github-readme-stats-xi-five-41.vercel.app/api?username=Faeq-F&hide=issues,contribs&show_icons=true&bg_color=00000000&hide_border=true&rank_icon=github" alt="Faeq's GitHub stats" max-width="250px">
-</a>
+  <img align="center"
+            src="https://github-readme-stats-xi-five-41.vercel.app/api?username=Faeq-F&hide=issues,contribs&show_icons=true&theme=buefy&bg_color=00000000&hide_border=true&text_color=a97ef4&title_color=a97ef4&icon_color=a97ef4&rank_icon=github" /></a>
 <a href="https://github.com/Faeq-F/">
-  <img src="https://github-readme-stats-xi-five-41.vercel.app/api/top-langs/?username=Faeq-F&amp;layout=compact&langs_count=4&card_width=252&langs_count=8&hide=html,kotlin,swift,objective-c,css" alt="Top Langs">
+  <img align="center"
+            src="https://github-readme-stats-xi-five-41.vercel.app/api/top-langs?username=Faeq-F&layout=compact&theme=buefy&bg_color=00000000&hide_border=true&text_color=a97ef4&title_color=a97ef4&icon_color=a97ef4" />
 </a>
 <br>
 <a href="https://www.libreoffice.org/">
