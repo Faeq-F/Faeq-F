@@ -141,6 +141,9 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=C%23&color=512BD4&logo=csharp&logoColor=FFFFFF" alt="C&#35;">
 </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-7.0">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=xaml&color=0C54C2&logo=xaml&logoColor=FFFFFF" alt="xaml">
+</a>
 <br>
 
 <br>
