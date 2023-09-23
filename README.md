@@ -18,7 +18,6 @@
     <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=MinimalBrowser" alt="Readme Card" max-width="250px">
   </a>
 </p>
-
 <br>
 
 ---
@@ -144,6 +143,10 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-7.0">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=xaml&color=0C54C2&logo=xaml&logoColor=FFFFFF" alt="xaml">
 </a>
+<a href="https://dotnet.microsoft.com/en-us/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=.NET&color=512BD4&logo=dotnet&logoColor=FFFFFF" alt="dotnet">
+</a>
+
 <br>
 
 <br>
