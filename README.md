@@ -146,7 +146,9 @@
 <a href="https://dotnet.microsoft.com/en-us/">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=.NET&color=512BD4&logo=dotnet&logoColor=FFFFFF" alt="dotnet">
 </a>
-
+<a href="https://visualstudio.microsoft.com">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visualstudio&logoColor=FFFFFF" alt="visualstudio">
+</a>
 <br>
 
 <br>
