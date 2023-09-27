@@ -149,6 +149,9 @@
 <a href="https://visualstudio.microsoft.com">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visualstudio&logoColor=FFFFFF" alt="visualstudio">
 </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-7.0">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=WPF&color=0078D4&logo=windows&logoColor=FFFFFF" alt="WPF">
+</a>
 <br>
 
 <br>
