@@ -152,6 +152,9 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-7.0">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=WPF&color=0078D4&logo=windows&logoColor=FFFFFF" alt="WPF">
 </a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=c&logoColor=FFFFFF" alt="C">
+</a>
 <br>
 
 <br>
