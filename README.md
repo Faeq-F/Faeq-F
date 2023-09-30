@@ -155,6 +155,9 @@
 <a href="https://www.open-std.org/jtc1/sc22/wg14/">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=c&logoColor=FFFFFF" alt="C">
 </a>
+<a href="https://www.vim.org">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF" alt="vim">
+</a>
 <br>
 
 <br>
