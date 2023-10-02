@@ -158,6 +158,9 @@
 <a href="https://www.vim.org">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF" alt="vim">
 </a>
+<a href="https://eclipseide.org">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Eclipse&color=2C2255&logo=eclipseide&logoColor=FFFFFF" alt="Eclipse">
+</a>
 <br>
 
 <br>
