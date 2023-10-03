@@ -161,6 +161,9 @@
 <a href="https://eclipseide.org">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Eclipse&color=2C2255&logo=eclipseide&logoColor=FFFFFF" alt="Eclipse">
 </a>
+<a href="https://jupyter.org">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=FFFFFF" alt="Jupyter">
+</a>
 <br>
 
 <br>
