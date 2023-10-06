@@ -164,6 +164,9 @@
 <a href="https://jupyter.org">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=FFFFFF" alt="Jupyter">
 </a>
+<a href="">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Java&color=F80000&logo=oracle&logoColor=FFFFFF" alt="Java">
+</a>
 <br>
 
 <br>
