@@ -167,6 +167,9 @@
 <a href="https://www.java.com/en/">
   <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=Java&color=F80000&logo=oracle&logoColor=FFFFFF" alt="Java">
 </a>
+<a href="https://spimsimulator.sourceforge.net">
+  <img align="center" margin = "10px auto" src="https://img.shields.io/static/v1?label=&message=SPIM&color=999999&logo=tmux&logoColor=FFFFFF" alt="SPIM">
+</a>
 <br>
 
 <br>
