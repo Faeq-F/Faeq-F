@@ -92,6 +92,11 @@
             src="https://img.shields.io/static/v1?label=&message=JavaFX&color=F80000&logo=oracle&logoColor=FFFFFF"
             alt="Java">
         </a>
+        <a href="https://swi-prolog.org/">
+          <img align="center" margin="10px auto"
+            src="https://img.shields.io/static/v1?label=&message=SWI-Prolog&color=ff9933&logo=googlepodcasts&logoColor=FFFFFF"
+            alt="SWI-Prolog">
+        </a>
         <a href="https://spimsimulator.sourceforge.net">
           <img align="center" margin="10px auto"
             src="https://img.shields.io/static/v1?label=&message=SPIM&color=999999&logo=tmux&logoColor=FFFFFF"
