@@ -186,6 +186,11 @@
             src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF"
             alt="Docker">
         </a>
+        <a href="https://svelte.dev/">
+          <img align="center" margin="10px auto"
+            src="https://img.shields.io/static/v1?label=&amp;message=Svelte&amp;color=FF3E00&amp;logo=svelte&amp;logoColor=FFFFFF"
+            alt="Svelte">
+        </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img align="center" margin="10px auto"
             src="https://img.shields.io/static/v1?label=&amp;message=JavaScript&amp;color=F1AA00&amp;logo=javascript&amp;logoColor=FFFFFF"
