@@ -2,20 +2,20 @@
 
 <h2 align="center">I'm a student, and a self-taught software developer!</h2>
 
-<h3 align="center">Current Projects</h3>
+<h3 align="center">Latest Projects</h3>
 
 <p align="center" margin = "0 auto">
   <a href="https://github.com/Faeq-F/Quokka">
     <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=Quokka" alt="Readme Card" max-width="250px">
   </a>
+  <a href="https://github.com/Faeq-F/IT-Assets-Metadata-Repository">
+    <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=IT-Assets-Metadata-Repository" alt="Readme Card" max-width="250px">
+  </a>
+  <a href="https://github.com/Faeq-F/ALSET">
+    <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=ALSET" alt="Readme Card" max-width="250px">
+  </a>
   <a href="https://github.com/Faeq-F/Portable-Application-Launcher">
     <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=Portable-Application-Launcher" alt="Readme Card" max-width="250px">
-  </a>
-  <a href="https://github.com/Faeq-F/Gideon">
-    <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=Gideon" alt="Readme Card" max-width="250px">
-  </a>
-  <a href="https://github.com/Faeq-F/MinimalBrowser">
-    <img src="https://github-readme-stats-xi-five-41.vercel.app/api/pin/?username=Faeq-F&amp;repo=MinimalBrowser" alt="Readme Card" max-width="250px">
   </a>
 </p>
 <br>
